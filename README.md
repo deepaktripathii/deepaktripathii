@@ -2,11 +2,11 @@
 
 # Deepak Tripathi
 
-**Machine Learning & AI Engineer**
+**Machine Learning & Full-Stack Engineer**
 
-I build end-to-end ML and AI systems — from data pipelines and model training to APIs, dashboards and monitoring.
+I build end-to-end products — from data pipelines and trained models to APIs, dashboards and web interfaces.
 
-<a href="https://github.com/deepaktripathii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:deepaktripxthi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <img src="https://komarev.com/ghpvc/?username=deepaktripathii&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/deepaktripathii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:deepaktripxthi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -14,12 +14,12 @@ I build end-to-end ML and AI systems — from data pipelines and model training 
 
 ## About Me
 
-I work across the full lifecycle of applied AI: exploring data, training and evaluating models, serving them behind APIs, explaining their decisions, and watching them in production.
+I work across the full stack of applied AI: cleaning data, training and evaluating models, serving them behind APIs, and building the interfaces people actually use.
 
-- **Machine learning:** classification, feature engineering, threshold tuning, drift monitoring
+- **Machine learning:** classification, feature engineering, model evaluation, threshold tuning, drift monitoring
 - **Generative AI:** RAG pipelines, embeddings, vector search, grounded answers with citations
 - **Computer vision:** transfer learning with PyTorch, Grad-CAM explanations
-- **Engineering:** FastAPI, Docker, PostgreSQL, Streamlit and Next.js dashboards
+- **Full-stack:** FastAPI backends, PostgreSQL, React/Next.js and Streamlit frontends, Docker deployment
 
 ---
 
@@ -27,16 +27,7 @@ I work across the full lifecycle of applied AI: exploring data, training and eva
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,docker,postgres,sqlite,git,githubactions,linux,nextjs,react,ts,html,css&perline=8" alt="Tech stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Sentence Transformers" />
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/PyMuPDF-4B8BBE?style=flat-square" alt="PyMuPDF" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,postgres,sqlite,nextjs,react,ts,js,php,mysql,html,css,docker,git,linux&perline=9" alt="Tech stack" />
 
 </div>
 
@@ -53,11 +44,9 @@ I work across the full lifecycle of applied AI: exploring data, training and eva
 <h3>Customer Churn Prediction &nearr;</h3>
 </a>
 
-Churn prediction service for telecom customer data: profiling, cleaning, feature engineering, model comparison, risk bands, per-customer explanations and PSI drift monitoring.
+Churn prediction service for telecom data: cleaning, feature engineering, model comparison, risk bands and per-customer explanations.
 
-**Results:** Random Forest F1 **0.625**, recall **0.729**, ROC AUC **0.841** on a held-out test set.
-
-**Stack:** Python · scikit-learn · XGBoost · FastAPI · SQLAlchemy · Streamlit · Docker
+**Stack:** Python · scikit-learn · XGBoost · FastAPI · PostgreSQL · Streamlit · Docker
 
 <a href="https://github.com/deepaktripathii/Customer-Churn-Prediction">GitHub Repository &nearr;</a>
 
@@ -69,9 +58,7 @@ Churn prediction service for telecom customer data: profiling, cleaning, feature
 <h3>Enterprise RAG Knowledge Assistant &nearr;</h3>
 </a>
 
-Document assistant for internal PDFs: page-aware chunking, Sentence Transformer embeddings, Qdrant retrieval, grounded answers with document and page citations, conversation history and monitoring.
-
-**Results:** retrieval hit rate **1.000**, citation accuracy **0.917**, faithfulness **1.000** on a 12-question evaluation set.
+Document assistant for internal PDFs: page-aware chunking, Qdrant retrieval, grounded answers with document and page citations, conversation history.
 
 **Stack:** Python · FastAPI · Qdrant · MiniLM · PyMuPDF · PostgreSQL · Next.js · Docker
 
@@ -87,11 +74,9 @@ Document assistant for internal PDFs: page-aware chunking, Sentence Transformer 
 <h3>Industrial Visual Defect Detection &nearr;</h3>
 </a>
 
-ResNet18 transfer-learning classifier that flags defective products, predicts the defect type and explains the decision with Grad-CAM.
+ResNet18 classifier that flags defective products, predicts the defect type and explains decisions with Grad-CAM.
 
-**Results:** binary accuracy **0.986**, recall **0.982**, F1 **0.991**; 21.8 ms per image on CPU.
-
-**Stack:** Python · PyTorch · torchvision · OpenCV · FastAPI · Streamlit · Docker
+**Stack:** Python · PyTorch · OpenCV · FastAPI · Streamlit · Docker
 
 <a href="https://github.com/deepaktripathii/Industrial-Visual-Defect-Detection">GitHub Repository &nearr;</a>
 
@@ -161,32 +146,5 @@ Similarity-based recommendations over user-item preferences.
 <div align="center">
 
 <a href="https://github.com/deepaktripathii?tab=repositories"><strong>Explore All Repositories &rarr;</strong></a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepaktripathii&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaktripathii&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaktripathii&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaktripathii&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
-
-</div>
-
----
-
-<div align="center">
-
-**Build it, measure it, explain it.**
 
 </div>
