@@ -33,7 +33,7 @@ I work across the full stack of applied AI: cleaning data, training and evaluati
 
 ---
 
-## Featured Projects
+## Projects
 
 <table>
 <tr>
@@ -83,68 +83,34 @@ ResNet18 classifier that flags defective products, predicts the defect type and 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/deepaktripathii/nl2sql">
-<img src="https://img.shields.io/badge/04-LLM_ENGINEERING-161B22?style=flat-square" />
-<h3>nl2sql &nearr;</h3>
+<a href="https://github.com/deepaktripathii/Hospital-Scheduler">
+<img src="https://img.shields.io/badge/04-FULL_STACK-161B22?style=flat-square" />
+<h3>Hospital Scheduler &nearr;</h3>
 </a>
 
-Natural-language-to-SQL experiments with query generation, schema context and evaluation notes.
+Scheduling system for hospital appointments and staff allocation, with a simple web interface.
 
-**Stack:** Python · SQL · LLM APIs
+**Stack:** JavaScript · Web
 
-<a href="https://github.com/deepaktripathii/nl2sql">GitHub Repository &nearr;</a>
-
-</td>
-</tr>
-</table>
-
-### More Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/deepaktripathii/Hospital-Scheduler"><h3>Hospital Scheduler &nearr;</h3></a>
-
-Scheduling system for hospital appointments and staff allocation.
-
-`JavaScript` `Web`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/deepaktripathii/RailwayReservationSystem"><h3>Railway Reservation System &nearr;</h3></a>
-
-DBMS project for train search, ticket booking and PNR status.
-
-`PHP` `MySQL` `HTML` `CSS`
+<a href="https://github.com/deepaktripathii/Hospital-Scheduler">GitHub Repository &nearr;</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/deepaktripathii/CODSOFT-Task1-Chatbot"><h3>Rule-Based Chatbot &nearr;</h3></a>
+<a href="https://github.com/deepaktripathii/RailwayReservationSystem">
+<img src="https://img.shields.io/badge/05-DATABASE_APPS-161B22?style=flat-square" />
+<h3>Railway Reservation System &nearr;</h3>
+</a>
 
-Conversational agent with intent matching and guided responses.
+DBMS project for train search, ticket booking and PNR status, backed by a relational schema.
 
-`Python`
+**Stack:** PHP · MySQL · HTML · CSS
 
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/deepaktripathii/CODSOFT-Task4-RecommendationSystem"><h3>Recommendation System &nearr;</h3></a>
-
-Similarity-based recommendations over user-item preferences.
-
-`Python` `scikit-learn`
+<a href="https://github.com/deepaktripathii/RailwayReservationSystem">GitHub Repository &nearr;</a>
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
-
-<div align="center">
-
-<a href="https://github.com/deepaktripathii?tab=repositories"><strong>Explore All Repositories &rarr;</strong></a>
-
-</div>
